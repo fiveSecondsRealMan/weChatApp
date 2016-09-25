@@ -1,59 +1,59 @@
 <navigator class="good-item" url="../edit_good/edit_good">
   <view class="good-item-inner clearfix">
-    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" /> 
+    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" />
     <view class="good-item-content">
-      <view class="good-item-title">交互设计沉思录</view>
-      <view class="good-item-topic">
-        定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
-      </view>
-    </view>
-  </view>
+        <view class="good-item-title">交互设计沉思录</view>
+        <view class="good-item-topic">
+          定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
+        </view>
+      </view> 
+  </view>    
 </navigator>
 
 <navigator class="good-item" url="../edit_good/edit_good">
   <view class="good-item-inner clearfix">
-    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" /> 
+    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" />
     <view class="good-item-content">
-      <view class="good-item-title">交互设计沉思录</view>
-      <view class="good-item-topic">
-        定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
-      </view>
-    </view>
-  </view>
-</navigator>  
-
-<navigator class="good-item" url="../edit_good/edit_good">
-  <view class="good-item-inner clearfix">
-    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" /> 
-    <view class="good-item-content">
-      <view class="good-item-title">交互设计沉思录</view>
-      <view class="good-item-topic">
-        定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
-      </view>
-    </view>
-  </view>
-</navigator> 
-
-<navigator class="good-item" url="../edit_good/edit_good">
-  <view class="good-item-inner clearfix">
-    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" /> 
-    <view class="good-item-content">
-      <view class="good-item-title">交互设计沉思录</view>
-      <view class="good-item-topic">
-        定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
-      </view>
-    </view>
-  </view>
+        <view class="good-item-title">交互设计沉思录</view>
+        <view class="good-item-topic">
+          定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
+        </view>
+      </view> 
+  </view>    
 </navigator>
 
 <navigator class="good-item" url="../edit_good/edit_good">
   <view class="good-item-inner clearfix">
-    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" /> 
+    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" />
     <view class="good-item-content">
-      <view class="good-item-title">交互设计沉思录</view>
-      <view class="good-item-topic">
-        定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
-      </view>
-    </view>
-  </view>
-</navigator>  
+        <view class="good-item-title">交互设计沉思录</view>
+        <view class="good-item-topic">
+          定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
+        </view>
+      </view> 
+  </view>    
+</navigator>
+
+<navigator class="good-item" url="../edit_good/edit_good">
+  <view class="good-item-inner clearfix">
+    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" />
+    <view class="good-item-content">
+        <view class="good-item-title">交互设计沉思录</view>
+        <view class="good-item-topic">
+          定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
+        </view>
+      </view> 
+  </view>    
+</navigator>
+
+<navigator class="good-item" url="../edit_good/edit_good">
+  <view class="good-item-inner clearfix">
+    <image class="good-item-imgwp" src="../../images/good-img.png" background-size="cover" />
+    <view class="good-item-content">
+        <view class="good-item-title">交互设计沉思录</view>
+        <view class="good-item-topic">
+          定义、设计人造系统的行为的设计领域。交互设计在于定义人造物的行为方式(the "interaction")
+        </view>
+      </view> 
+  </view>    
+</navigator>

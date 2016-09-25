@@ -1,0 +1,26 @@
+
+<view class="section top">
+  <input  bindinput="bindKeyInput" placeholder="手机号/邮箱"/>
+</view>
+<view class="section bottom top">
+  <input  bindinput="bindReplaceInput" placeholder="请输入密码" />
+</view>
+<view class="sect-buon">
+	<button type="default" class="sect-button">登录</button>
+	<view class="forgetpw">忘记密码</view>
+	<view class="register">注册账号</view>
+</view>
+
+<view class="third-party">
+	<view class="line-party line-right"></view>
+	<view class="line-party">其他方式登录</view>
+	<view class="line-party line-left"></view>
+</view>
+
+<view class="login-party">
+	<view class="center-par">
+		<view class="center-view" style="background-image: url('../../images/qq.png')" ></view>
+		<view class="center-view" style="background-image: url('../../images/weixin.png')" ></view>
+		<view class="center-view" style="background-image: url('../../images/weibo.png')" ></view>
+	</view>
+</view>

@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+.section{
+  height:56rpx;
+  padding: 32rpx;
+  border-top:1px double #d6d5d5;
+}
