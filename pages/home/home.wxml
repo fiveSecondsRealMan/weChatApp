@@ -1,0 +1,3 @@
+<view class="good-container">
+  <include src="../login/login.wxml" />
+</view>

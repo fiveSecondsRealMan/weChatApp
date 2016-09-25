@@ -1,5 +1,5 @@
 <view class="good-item">
-  <view class="good-item-inner clearfix">
+  <view class="good-item-inner clearfix"  bindtap="navigateTo">
     <view class="good-item-imgwp" style="background-image: url(../../images/good-img.png)"></view>
     <view class="good-item-content">
       <view class="good-item-title">交互设计沉思录</view>
@@ -10,7 +10,7 @@
   </view>
 </view>
 <view class="good-item">
-  <view class="good-item-inner clearfix">
+  <view class="good-item-inner clearfix"  bindtap="navigateTo">
     <view class="good-item-imgwp" style="background-image: url(../../images/good-img.png)"></view>
     <view class="good-item-content">
       <view class="good-item-title">交互设计沉思录</view>
@@ -21,7 +21,7 @@
   </view>
 </view>  
 <view class="good-item">
-  <view class="good-item-inner clearfix">
+  <view class="good-item-inner clearfix"  bindtap="navigateTo">
     <view class="good-item-imgwp" style="background-image: url(../../images/good-img.png)"></view>
     <view class="good-item-content">
       <view class="good-item-title">交互设计沉思录</view>
@@ -32,7 +32,7 @@
   </view>
 </view>  
 <view class="good-item">
-  <view class="good-item-inner clearfix">
+  <view class="good-item-inner clearfix"  bindtap="navigateTo">
     <view class="good-item-imgwp" style="background-image: url(../../images/good-img.png)"></view>
     <view class="good-item-content">
       <view class="good-item-title">交互设计沉思录</view>
@@ -43,7 +43,7 @@
   </view>
 </view>    
 <view class="good-item">
-  <view class="good-item-inner clearfix">
+  <view class="good-item-inner clearfix"  bindtap="navigateTo">
     <view class="good-item-imgwp" style="background-image: url(../../images/good-img.png)"></view>
     <view class="good-item-content">
       <view class="good-item-title">交互设计沉思录</view>

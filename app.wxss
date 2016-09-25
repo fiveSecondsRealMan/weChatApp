@@ -57,3 +57,95 @@ page {
   font-size: 0;
   visibility: hidden; 
 }
+
+
+/*登录样式*/
+
+.section{
+  height:56rpx;
+  padding: 32rpx;
+  }
+
+.section.top{
+  border-top:1px double #d6d5d5;
+}
+
+.section.bottom{
+  border-bottom:1px double #d6d5d5;
+}
+
+.sect-buon{
+  padding-top:80rpx;
+  padding-left:60rpx;
+  padding-right:60rpx;
+  height:180rpx;
+}
+
+.sect-button {
+  margin: 0 auto;
+  background-color: #338de6 !important;
+  color:#FFFFFF !important;
+}
+
+.forgetpw{
+  padding-top:60rpx;
+  color:#338de6;
+  font-size:20rpx;
+  float: left;
+}
+
+.register{
+  padding-top:50rpx;
+  color:#338de6;
+  font-size:20rpx;
+  float: right;
+}
+
+.third-party{
+  padding-top:50rpx;
+  padding-left:70rpx;
+  padding-right:70rpx;
+  height:80rpx;
+}
+
+.line-party {
+    width:200rpx;
+    float: left;
+    font-size:20rpx;
+    height:60rpx;
+    color:#827f7f;
+    text-align:center;
+}
+
+.line-right{
+  margin-top:10rpx;
+  border-top:1px double #d6d5d5;  
+}
+
+.line-left{
+  margin-top:10rpx;
+  border-top:1px double #d6d5d5;  
+}
+
+.login-party{
+   height:200rpx;
+   
+}
+
+.center-par{
+    width:400rpx;
+    height:80rpx;
+    margin:0 auto;
+}
+
+.center-view {
+  float: left;
+  margin-left:40rpx;
+  width:80rpx;
+  height:80rpx;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover;
+}
+
+
