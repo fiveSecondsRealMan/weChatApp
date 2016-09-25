@@ -1,3 +1,4 @@
-<view class="good-container">
+<view class="wrap">
+  <!-- 引入商品列表 -->
   <include src="../../components/Item/item.wxml" />
 </view>

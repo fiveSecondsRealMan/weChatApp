@@ -1,0 +1,21 @@
+<view class="wrap">
+  <view class="edit-container">
+    <view class="edit-header">
+      <image class="edit-good-imgwp" src="../../images/good-img.png" background-size="cover" />
+    </view>
+    <view class="edit-body">
+      <view class="edit-body-title">
+        <text class="propname">名称</text>
+        <view class="propvalue">
+          <text>交互设计沉思录</text>
+        </view>
+      </view>
+      <view class="edit-body-topic">
+        <text class="propname">简介</text>
+        <view class="propvalue">
+          <text>交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录</text>
+        </view>
+      </view>
+    </view>
+  </view>  
+</view>
