@@ -7,7 +7,9 @@
     "navigationBarBackgroundColor": "#ffffff",
     "navigationBarTitleText": "首页",
     "navigationBarTextStyle": "#999999",
-    "backgroundColor": "transparent"    
+    "backgroundColor": "transparent",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true    
   },
   "tabBar": {
      "color": "#666666",

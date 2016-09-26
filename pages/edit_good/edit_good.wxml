@@ -4,18 +4,21 @@
       <image class="edit-good-imgwp" src="../../images/good-img.png" background-size="cover" />
     </view>
     <view class="edit-body">
-      <view class="edit-body-title">
-        <text class="propname">名称</text>
+      <view class="edit-body-title clearfix">
+        <text class="propname fl">名称</text>
         <view class="propvalue">
           <text>交互设计沉思录</text>
         </view>
       </view>
-      <view class="edit-body-topic">
-        <text class="propname">简介</text>
+      <view class="edit-body-topic clearfix">
+        <text class="propname fl">名称</text>
         <view class="propvalue">
-          <text>交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录交互设计沉思录</text>
+          <text>交互设计沉思录</text>
         </view>
       </view>
+    </view>
+    <view class="btn-bar">
+      <button type="primary" size="default">修改</button>
     </view>
   </view>  
 </view>

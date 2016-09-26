@@ -32,26 +32,31 @@
 
 .edit-body .propname {
   color: #999;
-  font-size: 30rpx;    
-}
-
-.edit-body .propvalue {
-  display: inline-block;
-  padding-left: 48rpx;  
+  font-size: 30rpx;
+  padding-right: 48rpx;    
 }
 
 .edit-body-title .propvalue text {
   color: #3c4350;
   font-size: 36rpx;  
+  word-break: break-all;  
+  word-wrap: break-word;
 }
 
 .edit-body-topic {
   min-height: 260rpx;
-  padding: 28rpx 0;    
+  padding: 28rpx 0;  
+  word-break: break-all;  
+  word-wrap: break-word;  
 }
 
 .edit-body-topic .propvalue text {
   color: #9da1a7;
   font-size: 24rpx;
   line-height: 36rpx;
+}
+
+.btn-bar {
+  margin-top: 120rpx;
+  padding: 0 30rpx;
 }
