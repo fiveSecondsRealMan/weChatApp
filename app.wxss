@@ -89,6 +89,14 @@ page {
   height:180rpx;
 }
 
+.tiontop{
+  margin-top:40rpx;
+}
+
+.fos{
+  font-size:0.8rem;
+}
+
 .sect-button {
   margin: 0 auto;
   background-color: #338de6 !important;

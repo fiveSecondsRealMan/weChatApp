@@ -1,9 +1,9 @@
 
-<view class="section top">
-  <input  bindinput="bindKeyInput" placeholder="手机号/邮箱"/>
+<view class="section top tiontop">
+  <input  class="fos" bindinput="bindKeyInput" placeholder="手机号/邮箱"/>
 </view>
 <view class="section bottom top">
-  <input  bindinput="bindReplaceInput" placeholder="请输入密码" />
+  <input  class="fos"  bindinput="bindReplaceInput" placeholder="请输入密码" />
 </view>
 <view class="sect-buon">
 	<button type="default" class="sect-button">登录</button>
