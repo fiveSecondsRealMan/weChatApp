@@ -4,11 +4,11 @@
     "pages/edit_good/edit_good"
   ],
   "window": {
-    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarBackgroundColor": "black",
     "navigationBarTitleText": "首页",
-    "navigationBarTextStyle": "#999999",
+    "navigationBarTextStyle": "white",
     "backgroundColor": "transparent",
-    "backgroundTextStyle": "dark",
+    "backgroundTextStyle": "white",
     "enablePullDownRefresh": true    
   },
   "tabBar": {

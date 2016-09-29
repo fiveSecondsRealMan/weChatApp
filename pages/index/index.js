@@ -6,7 +6,7 @@
 const app = getApp();
 
 Page({
-  navigateTo: function () {
-    wx.navigateTo({ url: '../home/home' })
-  }
+  // navigateTo: function () {
+  //   wx.navigateTo({ url: '../home/home' })
+  // }
 });
